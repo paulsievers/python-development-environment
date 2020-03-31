@@ -1,5 +1,19 @@
 # My Python Development Environment
 
+[![os: windows 10](https://img.shields.io/badge/os-windows%2010-blue)]()
+[![wsl: ubuntu 18.04](https://img.shields.io/badge/wsl-ubuntu%2018.04-orange)]()
+
+[![editor: vscode](https://img.shields.io/badge/editor-vscode-blue)](https://code.visualstudio.com/)
+[![python: 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+[![venv: pipenv](https://img.shields.io/badge/venv-pipenv-orange)](https://github.com/pypa/pipenv)
+
+[![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![docstring: google](https://img.shields.io/badge/docstring-google-blue)](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+[![tests: pytest](https://img.shields.io/badge/tests-pytest-lightgrey)](https://docs.pytest.org/en/latest/)
+[![coverage: pytest-cov](https://img.shields.io/badge/coverage-pytest--cov-green)](https://pytest-cov.readthedocs.io/en/latest/)
+[![complexity: wily](https://img.shields.io/badge/complexity-wily-green)](https://wily.readthedocs.io/en/latest/)
+
+
 Collection of my personal Python development environment and tools
 
 ## My Operating System
